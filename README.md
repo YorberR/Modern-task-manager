@@ -6,7 +6,7 @@
 
 A modern, high-performance Todo List application built with **React 18**. This project goes beyond basic CRUD functionality by implementing a **Glassmorphism UI**, advanced filtering logic, and significant performance optimizations.
 
-### 🔗 [Click here to Try the Live Demo](https://yorberr.github.io/Modern-task-manager)
+### 🔗 [Click here to Try the Live Demo](https://modern-task-manager-nine.vercel.app/)
 ---
 
 ## ✨ Key Features
@@ -53,7 +53,7 @@ This project has undergone several refactoring cycles to improve performance and
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YorberR/modern-task-manager.git](https://github.com/YorberR/modern-task-manager.git)
+    git clone [https://github.com/YorberR/Modern-task-manager.git](https://github.com/YorberR/Modern-task-manager.git)
     ```
 
 2.  **Install dependencies**
