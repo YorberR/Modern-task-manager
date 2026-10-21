@@ -1,0 +1,9 @@
+minimumReleaseAgeExclude:
+  - braces@3.0.4
+
+# GHSA-vfj7-8cjw-p6xm (braces <=3.0.3): sin parche publicado en npm (la 3.0.4 no existe).
+# Solo se usa en dev (gh-pages -> globby -> micromatch) y el DoS requiere patrones glob
+# maliciosos, que no llegan de terceros. Se suprime hasta que exista un parche real.
+auditConfig:
+  ignoreGhsas:
+    - GHSA-vfj7-8cjw-p6xm
